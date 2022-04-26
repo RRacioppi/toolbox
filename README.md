@@ -10,6 +10,7 @@ A list of web-based developer tools
 | https://www.sslshopper.com/       | SSL Tools                                                    |
 | https://codebeautify.org/         | Code Formatter, JSON Beautifier, XML Viewer, Hex Converters and more... |
 | https://www.epochconverter.com/   | Epoch & Unix Timestamp Conversion Tools |
+| https://mailtrap.io/              | Email Sandbox Service |
 | https://script.google.com/macros/s/AKfycbzote6mUOrefLEMQo88kKzAgXCJ2QOsCxQGKie6Bh-EgudwqKzEMfkyGii8SKyBeEGFdQ/exec?rec=100&out=csv | User Dataset generator |
 
 
